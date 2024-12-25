@@ -1,0 +1,105 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+
+    background-image: linear-gradient( to right, #101a19,#1c2c2a,#101a19 );
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    color: white;
+
+    text-shadow: 0px 0px 4px #00000085;
+}
+
+.centro {
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    text-shadow: 0px 0px 25px #00000085;
+}
+
+.principal {
+    text-align: center;
+    margin: auto;
+}
+
+a {
+    color: white;
+    color: #000000;
+}
+
+p {
+    color: white;
+    border-radius: 20px;
+    margin: 0 auto;
+    padding: 10px;
+    font-size: 20px;
+}
+
+p:hover {
+    color: white;
+}
+
+img{
+    width: 20%;
+    height: auto;
+}
+
+p.Banana {
+    text-align: center;
+    background-color: #455559;
+    font-size: 20px;
+}
+p.Banana:hover {
+    text-align: center;
+    background-color: #2b3436;
+}
+p.Banana:active {
+    text-align: center;
+    background-color: #181d1f;
+}
+
+a {
+    text-decoration: none;
+    color: #ffff;
+}
+
+.Banana {
+    text-align: center;
+    display: flex;
+    justify-content: left;
+    
+}
+
+a.antars-page{
+    text-decoration: underline;
+}
+
+a.antars-page:hover{
+    color: white;
+}
+
+a.antars-page:active{
+    color: rgb(122, 122, 122);
+}
+
+.antars{
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.antars:hover{
+    color: rgb(197, 197, 197);
+}
+
+.antars:active{
+    color: rgb(156, 156, 156);
+}
+
+img{
+    width: 220px;
+    height: auto;
+}
+
+.atares{
+    margin: 0 80px;
+}
